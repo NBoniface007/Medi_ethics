@@ -1,8 +1,3 @@
-# Medi_ethics
-My project
-Smart Garden AI
-
-Final project for the Building AI course
 
 Summary
 
